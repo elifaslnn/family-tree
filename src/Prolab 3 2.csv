@@ -1,0 +1,6 @@
+﻿id;İsim;Soyisim;Doğum Tarihi;Eşi;Anne Adı;Baba Adı;Kan Grubu;Meslek;Medeni Hali;Kızlık Soyismi;Cinsiyet
+14;Uğur;Demir;04/07/1967;Nazlı Kaya;Fatma;Bayram;B(-);Öğretmen;Evli;;Erkek
+6;Defne;Çelik;08/07/1989;Ahmet Çelik;Nazlı;Uğur;AB(+);Mühendis;Evli;Demir;Kadın
+7;Ömer;Demir;09/04/1990;Eda Kara;Nazlı;Uğur;A(+);Doktor;Evli;;Erkek
+12;İrem;Çelik;09/09/2009;;Defne;Ahmet;A(+);Öğrenci;Bekar;;Kadın
+13;Ali;Demir;06/08/2021;;Eda;Ömer;0(+);;Bekar;;Erkek
